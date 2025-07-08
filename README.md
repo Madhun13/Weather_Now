@@ -23,7 +23,7 @@
 
 ## 📦 Installation
 
-    git clone https://github.com/your-username/weather_now.git
+    git clone https://github.com/Madhun13/weather_now.git
     cd weather_now
     npm install
     npm run dev
